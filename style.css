@@ -68,7 +68,7 @@ header nav ul {
   display: flex;
   gap: 20px;
  text-shadow:
-    0 0 5px   black,  /* Glowing effect with pink */
+    0 0 5px   black,  
     0 0 10px  black,
     0 0 20px black,
     0 0 25px black,
@@ -235,7 +235,7 @@ header nav ul li a:hover {
   color: black;
   margin-bottom: 10px;
  text-shadow:
-    0 0 5px   wheat,  /* Glowing effect with pink */
+    0 0 5px   wheat,  
     0 0 10px  wheat,
     0 0 20px wheat,
     0 0 25px wheat,
@@ -357,7 +357,7 @@ text-shadow:
   color: black;
   margin-bottom: 10px;
  text-shadow:
-    0 0 5px   wheat,  /* Glowing effect with pink */
+    0 0 5px   wheat,  
     0 0 10px  wheat,
     0 0 20px wheat,
     0 0 25px wheat,
@@ -385,11 +385,11 @@ h2 {
   color: black;
   font-size: 33px;
  text-shadow:
-    0 0 5px   wheat,  /* Glowing effect with pink */
-    0 0 10px  wheat,
-    0 0 20px wheat,
-    0 0 25px wheat,
-    0 0 30px wheat;
+    0 0 5px   white,  
+    0 0 10px  white,
+    0 0 20px white,
+    0 0 25px white,
+    0 0 30px white;
 }
 p1{
 color: black;
@@ -427,7 +427,7 @@ font-weight:600;
   cursor: pointer;
   transition: background 0.3s;
  box-shadow:
-    0 0 5px   black,  /* Glowing effect with pink */
+    0 0 5px   black,  
     0 0 10px  black,
     0 0 20px black,
     0 0 25px black,
